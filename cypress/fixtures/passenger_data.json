@@ -1,11 +1,11 @@
 {
   "TRAIN_NO": "16526",
   "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "11/06/2026",
+  "TRAVEL_DATE": "23/07/2026",
   "SOURCE_STATION": "SBC",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "TCR",
-  "TATKAL": true,
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
